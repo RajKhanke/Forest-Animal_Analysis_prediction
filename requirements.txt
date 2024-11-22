@@ -2,4 +2,4 @@ gunicorn
 streamlit
 prophet
 plotly
-foilum
+folium
