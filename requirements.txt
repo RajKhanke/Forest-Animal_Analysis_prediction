@@ -3,3 +3,4 @@ streamlit
 prophet
 plotly
 folium
+openpyxl
